@@ -5,7 +5,7 @@ A react component that inserts [WebReflection's DOMContentLoaded](https://github
 
 Read this blog post for details about how you might be bitten by using the DOMContentLoaded event in conjunction with `<script async …>`: http://webreflection.blogspot.no/2014/02/the-underestimated-problem-about-script.html
 
-Note: This component only makes sense for server side rendering, e.g. using `ReactDOM.renderToStaticMarkup` or `ReactDOM.renderToString`.
+**Please note**: This component *ONLY* make sense for server side rendering, e.g. using `ReactDOM.renderToStaticMarkup` or `ReactDOM.renderToString`.
 
 ## Usage
 
