@@ -21,7 +21,7 @@ var Chrome =  React.createClass({
           <script src="/my/fancy-js.js" async/>
         </head>
         <body>
-          <!-- … -->
+          {/* … */}
         </body>
       </html>
     )
