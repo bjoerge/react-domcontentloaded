@@ -1,6 +1,6 @@
 {
   "name": "react-domcontentloaded",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react component that inserts WebReflection's DOMContentLoaded fix for async scripts",
   "main": "DOMContentLoadedFix.js",
   "scripts": {
