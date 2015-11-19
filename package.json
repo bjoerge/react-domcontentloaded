@@ -1,0 +1,32 @@
+{
+  "name": "react-domcontentloaded",
+  "version": "0.0.0",
+  "description": "A react component that inserts WebReflection's DOMContentLoaded fix for async scripts",
+  "main": "DOMContentLoadedFix.js",
+  "scripts": {
+    "example": "node example/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjoerge/react-domcontentloaded.git"
+  },
+  "keywords": [
+    "domcontentloaded",
+    "react",
+    "async"
+  ],
+  "peerDependencies": {
+    "react": "0.12.x - 0.14.x"
+  },
+  "author": "Bjørge Næss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjoerge/react-domcontentloaded/issues"
+  },
+  "homepage": "https://github.com/bjoerge/react-domcontentloaded#readme",
+  "devDependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
+}
