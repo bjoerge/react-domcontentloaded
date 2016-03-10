@@ -13,7 +13,6 @@ Read this blog post for details about how you might be bitten by using the DOMCo
 var DOMContentLoadedFix = require('react-domcontentloaded')
 
 var Chrome =  React.createClass({
-  displayName: 'Chrome',
   render() {
     return (
       <html>
